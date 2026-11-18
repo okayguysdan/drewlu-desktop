@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop-application">
   <id>org.jellyfin.JellyfinDesktop</id>
-  <name>Jellyfin Desktop</name>
-  <summary>Jellyfin desktop client</summary>
+  <name>Drulu</name>
+  <summary>Drulu desktop client</summary>
   <developer id="org.jellyfin">
     <name>Jellyfin</name>
   </developer>
